@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "678a9dd8bb04cb6f8a6667b1_c452054c-12f7-4375-818f-eca74f1892be",
+  "id": "Page1_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "nome",
+        "value": "\"Fulano\""
+      },
+      {
+        "name": "idade",
+        "value": "33"
+      },
+      {
+        "name": "filiacao",
+        "value": "{\n  pai: \"Arnaldo\",\n  mae: \"Ana\"\n}"
+      }
+    ]
+  }
+}
