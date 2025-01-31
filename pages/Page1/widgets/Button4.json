@@ -31,7 +31,7 @@
   "mobileRightColumn": 25,
   "mobileTopRow": 2,
   "needsErrorInfo": false,
-  "onClick": "{{JSObject1.generatePDF();}}",
+  "onClick": "{{showModal(Modal1.name).then(() => {\n  JSObject1.generatePDF();\n});}}",
   "parentColumnSpace": 20.21875,
   "parentId": "0",
   "parentRowSpace": 10,
